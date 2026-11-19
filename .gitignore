@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Datasets and model weights
+data/
+*.pth
+*.pt
+*.zip
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
